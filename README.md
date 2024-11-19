@@ -1,10 +1,16 @@
 # Laptop Price Determination Analysis
+
 This project investigates the key factors influencing laptop prices to assist companies like Cityville Electronics in developing effective pricing strategies. By analyzing a dataset containing over 1,000 laptop entries, this study explores how variables such as processor tier, brand, number of cores, and RAM memory impact pricing.
+
+---
 
 ## Project Overview
 The primary research question addressed in this study is:
 - **What are the most significant factors affecting laptop sales prices, and how do these factors interact?**
+
 This project aims to provide actionable insights into the laptop market's pricing dynamics by examining technical specifications and brand value.
+
+---
 
 ## Key Findings
 1. **Processor Tiers**:
