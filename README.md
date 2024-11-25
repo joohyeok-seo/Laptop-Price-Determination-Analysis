@@ -64,6 +64,8 @@ This analysis aims to deliver actionable insights into the pricing strategies of
 
 ---
 
+---
+
 ## Files in This Repository
 - Laptop_Price_Analysis_Presentation.pdf: Summarized findings in presentation format.
 - Laptop_Price_Analysis_Report.pdf: Comprehensive report detailing methodology, analysis, and conclusions.
